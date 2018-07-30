@@ -1,0 +1,8 @@
+This project will help you to hide an image in another image.
+For Black And White:
+copy file Black_&_white.m and main.jpg,hide.jpg (or you can replace the name with your files in the code).
+For RGB Image:
+copy file RGB.m and ironman.jpg,spiderman.jpg (or you can replace the name with your files in the code).
+
+
+Created By: Shubham Arora.
